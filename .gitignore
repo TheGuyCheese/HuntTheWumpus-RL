@@ -2,7 +2,6 @@
 wumpusRLTraining/
 models/
 results/
-assets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
